@@ -492,6 +492,13 @@ h6,
   text-align: right;
   color: #fff;
 }
+#content8-j .mbr-section-title {
+  text-align: left;
+}
+#content8-j P {
+  font-size: 30px;
+  text-align: center;
+}
 #features1-1h .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
 }
@@ -502,6 +509,9 @@ h6,
   text-align: left;
 }
 #features1-1h .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: left;
+}
+#features3-k H4 {
   text-align: left;
 }
 #ext_menu-8 .hide-buttons .nav-btn {
